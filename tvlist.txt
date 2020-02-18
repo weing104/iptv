@@ -38,7 +38,6 @@ CCTV-14,http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.li
 CCTV-15,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 CCTV-15,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-17,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-
 卫视台,#genre#
 湖南卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 湖南卫视,https://116.77.72.195/streams/d/hunws/playlist.m3u8
@@ -129,7 +128,6 @@ CCTV-17,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
 海峡卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
-
 港澳台,#genre#
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
 凤凰资讯,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000045.m3u8
@@ -145,7 +143,6 @@ Channal[V],rtmp://58.200.131.2:1935/livetv/channelv
 中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
 阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
 卫星体育台,rtmp://58.200.131.2:1935/livetv/starsports
-
 湾湾台,#genre#
 TVBS,P2p://sdgdklwos.finetv.tv:9906/59fd20d3000f24fd0294b75f4a555e2a
 TVBS欢乐台,P2p://sdgdklwos.finetv.tv:9906/59fd20ae000635720294248563346fd6
@@ -164,7 +161,6 @@ TVBS新闻台,P2p://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
 三立都会,vjms://58.215.133.185:8500:3502/live/cid=226
 八大综合台,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 八大第1台,vjms://58.215.133.185:8500:3502/live/cid=441
-
 海外台,#genre#
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 探索频道,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=fe27e062ecfdc1f029f0e5ec6dcf7eee
@@ -172,7 +168,6 @@ TVBS新闻台,P2p://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 BBC,vjms://58.215.133.185:8500:3502/live/cid=418
 CNBC,vjms://58.215.133.185:8500:3502/live/cid=98
-
 电影台,#genre#
 CHC高清电影,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=f1f8aab0fd04f1cf17ba7ebcf67b06e0
 CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
@@ -224,7 +219,6 @@ HBO,vjms://58.215.133.185:8500:3502/live/cid=261
 HBO,vjms://23.237.33.155:8500:3502/live/cid=261
 FOX电影,vjms://58.215.133.185:8500:3502/live/cid=94
 FOX电影,vjms://23.237.33.155:8500:3502/live/cid=94
-
 广播台,#genre#
 CNR中国之声,https://lhttp.qingting.fm/live/386/64k.mp3
 CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
@@ -255,7 +249,6 @@ CRI EZFM,https://lhttp.qingting.fm/live/1006/64k.mp3
 青春网络电台,http://mycentre.myftp.org:89/broadwave.mp3
 AsiaFM亚洲音乐台,https://lhttp.qingting.fm/live/4581/64k.mp3
 法广,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
-
 成人台,#genre#
 松视1,p2p://fccsovh.pvbox.live:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
 松视2,p2p://fccsovh.pvbox.live:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
