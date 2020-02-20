@@ -428,7 +428,6 @@ CIBN朵丫乐园,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=28
 CIBN艺术院线,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=32
 CIBN映画,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=39
 CIBN时尚生活,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=41
-CBN每日影院,http://ml.fzszyx.com/tvshow.php?id=368_3
 Newtv动画王国,http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
 Newtv动画王国,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 Newtv精品体育,http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
@@ -473,6 +472,16 @@ Newtv军事评论,http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8
 Newtv军事评论,http://112.17.40.140/PLTV/88888888/224/3221226658/index.m3u8
 Newtv农业致富,http://112.17.40.140/PLTV/88888888/224/3221226664/index.m3u8
 Newtv潮妈辣婆,http://112.17.40.140/PLTV/88888888/224/3221226666/index.m3u8
+CBN每日影院 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnmeiriyingyuanhd
+CBN每日影院,http://ml.fzszyx.com/tvshow.php?id=368_3
+CBN幸福剧场 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
+CBN风尚生活 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnfengshangshenghuohd
+DOX新知 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
+DOX新艺 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
+DOX怡家 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
+DOX英伦 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
+DOX院线 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
+DOX映画 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
 广播台,#genre#
 CNR中国之声,https://lhttp.qingting.fm/live/386/64k.mp3
 CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
